@@ -23,7 +23,7 @@ export const EXPERIENCES = [
     role: "Java Programming Internship",
     company: "INTERNPE",
     description: `As an intern, I was responsible for developing game applications, implementing Java programming concepts, and refining my problem-solving skills through practical tasks. Utilized object-oriented programming principles, control flow mechanisms, and data structures to create robust and efficient code for each project.`,
-    technologies: ["Java", "OPPs", "Problem Solving", "VS Code"],
+    technologies: ["Java", "OPPs", "Problem Solving"],
   },
 ];
 
