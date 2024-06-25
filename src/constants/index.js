@@ -23,8 +23,33 @@ export const EXPERIENCES = [
     role: "Java Programming Internship",
     company: "INTERNPE",
     description: `As an intern, I was responsible for developing game applications, implementing Java programming concepts, and refining my problem-solving skills through practical tasks. Utilized object-oriented programming principles, control flow mechanisms, and data structures to create robust and efficient code for each project.`,
-    technologies: ["Java", "OPPs", "VS Code"],
+    technologies: ["Java", "OPPs", "Problem Solving", "VS Code"],
   },
+];
+
+export const EDUCATION = [
+  {
+    year: " 2021-2024",
+    class: "Bachelor of Computer Science",
+    address: "SHIVAJI UNIVERSITY, KOLHAPUR",
+    marks: "CGPA : 8.0",
+    technologies: ["C", "C++", "SQL", "Java", "C# .NET"],
+  },
+  {
+    year: " 2019-2021",
+    class: "HSC",
+    address: "R. B. Jr.  AUNDH",
+    marks: "Percentage: 62%",
+     technologies: ["Physics", "Chemistry", "Maths", "Agri"],
+  },
+  {
+    year: " 2018-2019",
+    class: "SSC",
+    address: "S. M. V. PALASHI",
+    marks: "Percentage: 75.80%",
+    technologies: [],
+  },
+  
 ];
 
 export const PROJECTS = [
