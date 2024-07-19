@@ -11,13 +11,13 @@ export const HERO_CONTENT = `I am a passionate full stack developer with a knack
 export const ABOUT_TEXT = `With over 2 years of comprehensive experience in the field of Web Development & Software Development, accompanied by a bachelor's degree in Computer Science. Proficient in Java Development, Web Development, Unit Testing, SDLC, & machine learning. Demonstrated success in leading impactful projects and providing effective mentorship.`;
 
 export const EXPERIENCES = [
-  // {
-  //   year: "July 2024 - Present",
-  //   role: "MERN Stack Developer Intern",
-  //   company: "Nezuware",
-  //   description: `During my internship as a MERN Stack Developer at Nezuware, I had the opportunity to work on diverse and challenging projects that enhanced my skills in full-stack web development. My role involved collaborating with a team of experienced developers to design, develop, and deploy web applications using the MERN (MongoDB, Express.js, React, Node.js) stack.`,
-  //   technologies: ["Javascript", "React.js", "Express.js", "Node.js", "mongoDB"],
-  // },
+   {
+    year: "June 2024 - Present",
+    role: "Website Handler",
+    company: "Phantasmagoria Innovation Lab",
+    description: `•	Developed and manage the company website using Hostinger Web Hosting Platform. Designed and optimized all sections of the website for SEO. Created a responsive design ensuring optimal user experience on all devices. Posted blogs provided by the team and created related images for blog content.`,
+    technologies: ["Hostinger Web Hosting Platform", "HTML", "CSS", "SEO", "WordPress"],
+  },
   {
     year: "April 2024-May 2024",
     role: "Java Programming Internship",
