@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     year: "June 2024 - Present",
     role: "Website Handler",
     company: "Phantasmagoria Innovation Lab",
-    description: `•	Developed and manage the company website using Hostinger Web Hosting Platform. Designed and optimized all sections of the website for SEO. Created a responsive design ensuring optimal user experience on all devices. Posted blogs provided by the team and created related images for blog content.`,
+    description: `Developed and manage the company website using Hostinger Web Hosting Platform. Designed and optimized all sections of the website for SEO. Created a responsive design ensuring optimal user experience on all devices. Posted blogs provided by the team and created related images for blog content.`,
     technologies: ["Hostinger Web Hosting Platform", "HTML", "CSS", "SEO", "WordPress"],
   },
   {
